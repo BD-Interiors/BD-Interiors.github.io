@@ -1,8 +1,6 @@
 :root {
-    margin: 0;
-    padding: 0;
   --background: #F7F3EE;
-  --card: #E8DED2;
+  --menu: #E8DED2;
   --text: #201C19;
   --footer: #9888A5;
   --navbar: #9395D3;
@@ -49,35 +47,37 @@ nav {
 #dropdown-btn {
     border: none;
     cursor: pointer;
+    margin: 0;
 }
 
-#dropdown-cnt {
-    position: absolute;
-    margin: 8px;
-    padding: 2px;
-    border-radius: 10px ;
+#dropdown-content {
     display: none;
-    flex-direction: column;
-    gap: 8px;
-    background-color: var(--card);
+    width: 30%;
+    position: absolute;
+    margin: 4px;
+    padding: 2px;
+    border-radius: 20px ;
+    background-color: var(--menu);
 }
 
-#dropdown:hover #dropdown-cnt {
+#content-list {
+    list-style-type: none;
+}
+
+#dropdown:hover #dropdown-content {
     display: flex;
 }
 
-#cnt {
+#content {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 6%;
 }
 
-#cnt-img {
+#content-img {
     width: 45%;
     border-radius: 50px;
-    /* margin-top: 6%;
-    margin-right: 5%; */
 }
 
 #bloktekst {
