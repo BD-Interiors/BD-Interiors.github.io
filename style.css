@@ -1,4 +1,6 @@
 :root {
+    margin: 0;
+    padding: 0;
   --background: #F7F3EE;
   --card: #E8DED2;
   --text: #201C19;
@@ -16,7 +18,6 @@ body {
 a {
     text-decoration: none;
     color: var(--text);
-
 }
 
 header h1 {
@@ -30,8 +31,13 @@ header h1 {
 
 nav {
     background-color: var(--background);
-    display: flex;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    align-items: start;
+}
+
+#dropdown {
+    grid-column: 3 / 4;
 }
 
 #dropdown-btn {
@@ -42,7 +48,7 @@ nav {
 #dropdown-cnt {
     position: absolute;
     margin: 12px;
-    padding: 5px;
+    padding: 2px;
     border-radius: 10px ;
     display: none;
     flex-direction: column;
@@ -54,4 +60,11 @@ nav {
     display: flex;
 }
 
+#voorplaatje2 {
+        display: flex;
+    justify-content: flex-end;
+}
+#voorplaatje1 {
+    width: 50%;
 
+}
