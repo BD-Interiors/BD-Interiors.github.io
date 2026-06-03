@@ -1,0 +1,20 @@
+[
+  {
+    "naam": "Bank Oslo",
+    "prijs": 499,
+    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "beschrijving": "Comfortabele 3-zits bank"
+  },
+  {
+    "naam": "Stoel Milan",
+    "prijs": 129,
+    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "beschrijving": "Moderne eetkamerstoel"
+  },
+  {
+    "naam": "Kast Luna",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "beschrijving": "Ruime houten kast"
+  }
+]

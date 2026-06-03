@@ -2,7 +2,7 @@
   --background: #F7F3EE;
   --menu: #E8DED2;
   --text: #201C19;
-  --footer: #9888A5;
+  --footer: #ece7e2;
   --navbar: #9395D3;
 }
 
@@ -90,4 +90,30 @@ nav {
 
 #info {
     font-size: 25px;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    width: 100%;
+    height: 25vh;
+    background-color: var(--footer);
+}
+
+#info1 {
+    grid-column: 2 / 3;
+}
+
+#info2 {
+    grid-column: 4 / 5; 
+}
+
+#contact {
+    grid-column: 6 / 7;    
+}
+
+#copy {
+    grid-column: 4 / 5;
+    grid-row: 2;
 }
