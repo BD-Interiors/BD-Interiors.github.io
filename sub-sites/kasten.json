@@ -1,20 +1,62 @@
 [
   {
-    "naam": "Bank Oslo",
-    "prijs": 499,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
-    "beschrijving": "Comfortabele 3-zits bank"
+    "naam": "Zepa kast",
+    "prijs": 280,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-01.jpg",
+    "beschrijving": "Comfortabele 3-zits kast"
   },
   {
-    "naam": "Stoel Milan",
-    "prijs": 129,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
-    "beschrijving": "Moderne eetkamerstoel"
-  },
-  {
-    "naam": "Kast Luna",
+    "naam": "leeuwen kast",
     "prijs": 349,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-02.jpg",
     "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-03.jpg",
+    "beschrijving": "Met koelkast in de kast"
+  },
+  {
+    "naam": "leeuwen kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-04.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-05.jpg",
+    "beschrijving": "Met koelkast in de kast"
+  },
+  {
+    "naam": "leeuwen kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-06.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-07.jpg",
+    "beschrijving": "Met koelkast in de kast"
+  },
+  {
+    "naam": "leeuwen kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-08.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-09.jpg",
+    "beschrijving": "Met koelkast in de kast"
+  },
+  {
+    "naam": "Wk kast",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/kasten/kast-10.jpg",
+    "beschrijving": "Met koelkast in de kast"
   }
 ]

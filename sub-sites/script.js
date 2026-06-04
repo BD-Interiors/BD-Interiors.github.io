@@ -1,11 +1,14 @@
-$(document).ready(function () {
-  $.getJSON("banken.json", function (producten) {
-    const container = $("#banken");
 
+$(document).ready(function () {
+  // kijk in de JSON file
+  $.getJSON("banken.json", function (producten) {
+    // zet alle procuten in de div met id het bijhorenende id
+    const div = $("#banken");
+    // Pak elk product en voeg het toe aan de html.
     producten.forEach(function (product) {
-      container.append(`
-        <div class="product">
-          <img src="${product.afbeelding}">
+      div.append(`
+        <div id="product">
+          <img id="product-img" src="${product.afbeelding}">
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>
@@ -13,16 +16,15 @@ $(document).ready(function () {
         </div>
       `);
     });
-    
   });
 
   $.getJSON("bedden.json", function (producten) {
-    const container = $("#bedden");
+    const div = $("#bedden");
 
     producten.forEach(function (product) {
-      container.append(`
-        <div class="product">
-          <img src="${product.afbeelding}">
+      div.append(`
+        <div id="product">
+          <img id="product-img" src="${product.afbeelding}">
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>
@@ -34,12 +36,12 @@ $(document).ready(function () {
   });
 
   $.getJSON("kasten.json", function (producten) {
-    const container = $("#kasten");
+    const div = $("#kasten");
 
     producten.forEach(function (product) {
-      container.append(`
-        <div class="product">
-          <img src="${product.afbeelding}">
+      div.append(`
+        <div id="product">
+          <img id="product-img" src="${product.afbeelding}">
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>

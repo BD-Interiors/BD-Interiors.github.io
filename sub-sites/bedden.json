@@ -1,20 +1,62 @@
 [
   {
-    "naam": "Bank Oslo",
-    "prijs": 499,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
-    "beschrijving": "Comfortabele 3-zits bank"
+    "naam": "Zepa bed",
+    "prijs": 280,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-01.jpg",
+    "beschrijving": "Comfortabele 3-zits bed"
   },
   {
-    "naam": "Stoel Milan",
-    "prijs": 129,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
-    "beschrijving": "Moderne eetkamerstoel"
-  },
-  {
-    "naam": "Kast Luna",
+    "naam": "leeuwen bed",
     "prijs": 349,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-02.jpg",
     "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-03.jpg",
+    "beschrijving": "Met koelkast in de bed"
+  },
+  {
+    "naam": "leeuwen bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-04.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-05.jpg",
+    "beschrijving": "Met koelkast in de bed"
+  },
+  {
+    "naam": "leeuwen bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-06.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-07.jpg",
+    "beschrijving": "Met koelkast in de bed"
+  },
+  {
+    "naam": "leeuwen bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-08.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-09.jpg",
+    "beschrijving": "Met koelkast in de bed"
+  },
+  {
+    "naam": "Wk bed",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-10.jpg",
+    "beschrijving": "Met koelkast in de bed"
   }
 ]

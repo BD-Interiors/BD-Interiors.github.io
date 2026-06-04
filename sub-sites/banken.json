@@ -1,20 +1,62 @@
 [
   {
-    "naam": "Bank Oslo",
-    "prijs": 499,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "naam": "Zepa bank",
+    "prijs": 280,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-01.jpg",
     "beschrijving": "Comfortabele 3-zits bank"
   },
   {
-    "naam": "Stoel Milan",
-    "prijs": 129,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
-    "beschrijving": "Moderne eetkamerstoel"
+    "naam": "leeuwen bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-02.jpg",
+    "beschrijving": "Ruime houten kast"
   },
   {
-    "naam": "Kast Luna",
+    "naam": "Wk bank",
     "prijs": 349,
-    "afbeelding": "../afbeeldingen/producten/kast1.jpg",
+    "afbeelding": "../afbeeldingen/producten/banken/bank-03.jpg",
+    "beschrijving": "Met koelkast in de bank"
+  },
+  {
+    "naam": "leeuwen bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-04.jpg",
     "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-05.jpg",
+    "beschrijving": "Met koelkast in de bank"
+  },
+  {
+    "naam": "leeuwen bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-06.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-07.jpg",
+    "beschrijving": "Met koelkast in de bank"
+  },
+  {
+    "naam": "leeuwen bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-08.jpg",
+    "beschrijving": "Ruime houten kast"
+  },
+  {
+    "naam": "Wk bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-09.jpg",
+    "beschrijving": "Met koelkast in de bank"
+  },
+  {
+    "naam": "Wk bank",
+    "prijs": 349,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-10.jpg",
+    "beschrijving": "Met koelkast in de bank"
   }
 ]

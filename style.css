@@ -13,6 +13,14 @@ body {
     color: var(--text);
 }
 
+#logo-link {
+    width: 6%;
+}
+
+#logo {
+    width: 100%;
+}
+
 a {
     text-decoration: none;
     color: var(--text);
