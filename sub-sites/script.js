@@ -1,7 +1,7 @@
 
 $(document).ready(function () {
   // kijk in de JSON file
-  $.getJSON("banken.json", function (producten) {
+  $.getJSON("../producten/banken.json", function (producten) {
     // zet alle procuten in de div met id het bijhorenende id
     const div = $("#banken");
     // Pak elk product en voeg het toe aan de html.
@@ -18,7 +18,7 @@ $(document).ready(function () {
     });
   });
 
-  $.getJSON("bedden.json", function (producten) {
+  $.getJSON("../producten/bedden.json", function (producten) {
     const div = $("#bedden");
 
     producten.forEach(function (product) {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     
   });
 
-  $.getJSON("kasten.json", function (producten) {
+  $.getJSON("../producten/kasten.json", function (producten) {
     const div = $("#kasten");
 
     producten.forEach(function (product) {
