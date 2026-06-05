@@ -1,62 +1,62 @@
 [
   {
-    "naam": "Zepa bank",
-    "prijs": 280,
+    "naam": "grijze 3-zitsbank",
+    "prijs": 400,
     "afbeelding": "../afbeeldingen/producten/banken/bank-01.jpg",
-    "beschrijving": "Comfortabele 3-zits bank"
+    "beschrijving": "Comfortabele grijze 3-zits bank"
   },
   {
-    "naam": "leeuwen bank",
-    "prijs": 349,
+    "naam": "ruime bank",
+    "prijs": 1000,
     "afbeelding": "../afbeeldingen/producten/banken/bank-02.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "Ruime witte bank met harde rugleuning"
   },
   {
-    "naam": "Wk bank",
-    "prijs": 349,
+    "naam": "grote L-bank",
+    "prijs": 1350,
     "afbeelding": "../afbeeldingen/producten/banken/bank-03.jpg",
-    "beschrijving": "Met koelkast in de bank"
+    "beschrijving": "comfortabele beige L-bank "
   },
   {
-    "naam": "leeuwen bank",
-    "prijs": 349,
+    "naam": "luxe bank met koelkast",
+    "prijs": 8000,
     "afbeelding": "../afbeeldingen/producten/banken/bank-04.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "Luxe oranje WK-bank met dubbele koelkast "
   },
   {
-    "naam": "Wk bank",
-    "prijs": 349,
+    "naam": "beige 3-zitsbank",
+    "prijs": 900,
     "afbeelding": "../afbeeldingen/producten/banken/bank-05.jpg",
-    "beschrijving": "Met koelkast in de bank"
+    "beschrijving": "ruime 3-zitsbank met sterke rugleuning"
   },
   {
-    "naam": "leeuwen bank",
-    "prijs": 349,
+    "naam": "ruime U-bank",
+    "prijs": 1600,
     "afbeelding": "../afbeeldingen/producten/banken/bank-06.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "ruime U-bank met zachte kussens"
   },
   {
-    "naam": "Wk bank",
-    "prijs": 349,
+    "naam": "klassieke 3-zitsbank",
+    "prijs": 2500,
     "afbeelding": "../afbeeldingen/producten/banken/bank-07.jpg",
-    "beschrijving": "Met koelkast in de bank"
+    "beschrijving": "klassieke groene bank"
   },
   {
-    "naam": "leeuwen bank",
-    "prijs": 349,
+    "naam": "oude bank",
+    "prijs": 0,
     "afbeelding": "../afbeeldingen/producten/banken/bank-08.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "tweedehands bank gratis ophalen"
   },
   {
-    "naam": "Wk bank",
-    "prijs": 349,
+    "naam": "wolkenbank",
+    "prijs": 1100,
     "afbeelding": "../afbeeldingen/producten/banken/bank-09.jpg",
-    "beschrijving": "Met koelkast in de bank"
+    "beschrijving": "moderne comfortabele wolkenbank"
   },
   {
-    "naam": "Wk bank",
-    "prijs": 349,
+    "naam": "L-bank",
+    "prijs": 900,
     "afbeelding": "../afbeeldingen/producten/banken/bank-10.jpg",
-    "beschrijving": "Met koelkast in de bank"
+    "beschrijving": "comfortabele grijze L-bank"
   }
 ]

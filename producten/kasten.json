@@ -1,62 +1,62 @@
 [
   {
-    "naam": "Zepa kast",
-    "prijs": 280,
+    "naam": "kledingkast ",
+    "prijs": 1000,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-01.jpg",
-    "beschrijving": "Comfortabele 3-zits kast"
+    "beschrijving": "kledingkast met hangers + 2 lades eikenhout"
   },
   {
-    "naam": "leeuwen kast",
-    "prijs": 349,
+    "naam": "woonkamerkast ",
+    "prijs": 800,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-02.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "ruime woonkamerkast of gangkast met deurtjes notenhout"
   },
   {
-    "naam": "Wk kast",
-    "prijs": 349,
+    "naam": "kast glazen deurtjes ",
+    "prijs": 1250,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-03.jpg",
-    "beschrijving": "Met koelkast in de kast"
+    "beschrijving": "zwartgeverfde kast met glazen deurtjes eikenhout"
   },
   {
-    "naam": "leeuwen kast",
-    "prijs": 349,
+    "naam": "garderobe kast",
+    "prijs": 550,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-04.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "Ruime garderobekast teakhout"
   },
   {
-    "naam": "Wk kast",
-    "prijs": 349,
+    "naam": "garderobe kast",
+    "prijs": 650,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-05.jpg",
-    "beschrijving": "Met koelkast in de kast"
+    "beschrijving": "witte garderobekast afroimoisiahout"
   },
   {
-    "naam": "leeuwen kast",
-    "prijs": 349,
+    "naam": "lage woonkamerkast",
+    "prijs": 900,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-06.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "donkere woonkamerkast met deurtjes en lades merbauhout"
   },
   {
-    "naam": "Wk kast",
-    "prijs": 349,
+    "naam": "zwarte tv meubel",
+    "prijs": 1200,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-07.jpg",
-    "beschrijving": "Met koelkast in de kast"
+    "beschrijving": "lang tv meubel zwart eikenhout"
   },
   {
-    "naam": "leeuwen kast",
-    "prijs": 349,
+    "naam": "luxe woonkamerkast",
+    "prijs": 1500,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-08.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "zwarte woonkamerkast met glazen deurtjes merbauhout"
   },
   {
-    "naam": "Wk kast",
-    "prijs": 349,
+    "naam": "kledingkast schuifdeuren",
+    "prijs": 1400,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-09.jpg",
-    "beschrijving": "Met koelkast in de kast"
+    "beschrijving": "beige kledingkast schuifdeuren teakhout"
   },
   {
-    "naam": "Wk kast",
-    "prijs": 349,
+    "naam": "kleine garderobekast",
+    "prijs": 350,
     "afbeelding": "../afbeeldingen/producten/kasten/kast-10.jpg",
-    "beschrijving": "Met koelkast in de kast"
+    "beschrijving": "garderobekast met laadjes eikenhout"
   }
 ]
