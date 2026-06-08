@@ -1,5 +1,7 @@
 :root {
-  --background: #F7F3EE;
+    background-image: url('Picture.jpg');
+  --header: #F7F3EE;
+  --background: #a6b996;
   --menu: #E8DED2;
   --text: #201C19;
   --footer: #ece7e2;
@@ -7,11 +9,12 @@
 }
 
 body {
+
     margin: 0;
     padding: 0;
     font-family: Arial;
     color: var(--text);
-    background-color:#e2ffff
+    background-color:var(--background);
 }
 
 #logo-link {
@@ -30,14 +33,15 @@ a {
 
 
 header {
-    background-color: var(--background);
+    
+    background-color: var(--header);
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
 nav {
-    background-color: var(--background);
+    background-color: var(--header);
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     align-items: start;

@@ -17,6 +17,17 @@
 }
 
 #product-img:hover {
-    transition: 1s;
+    transition: 500ms;
     transform: scale(1.3);
+}
+
+#koop {
+    border-radius: 50pt;
+    width: 40%;
+    border: none;
+    transition: 500ms;
+}
+
+#koop:hover {
+    width: 50%;
 }

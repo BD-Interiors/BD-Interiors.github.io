@@ -12,7 +12,7 @@ $(document).ready(function () {
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>
-          <button>Voeg toe aan winkelmandje</button>
+          <button id="koop">Voeg toe aan winkelmandje</button>
         </div>
       `);
     });
@@ -28,7 +28,7 @@ $(document).ready(function () {
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>
-          <button>Voeg toe aan winkelmandje</button>
+          <button id="koop">Voeg toe aan winkelmandje</button>
         </div>
       `);
     });
@@ -45,7 +45,7 @@ $(document).ready(function () {
           <h2>${product.naam}</h2>
           <p>${product.beschrijving}</p>
           <h3>€${product.prijs}</h3>
-          <button>Voeg toe aan winkelmandje</button>
+          <button id="koop">Voeg toe aan winkelmandje</button>
         </div>
       `);
     });
