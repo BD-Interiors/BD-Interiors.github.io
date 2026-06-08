@@ -1,62 +1,62 @@
 [
   {
-    "naam": "Zepa bed",
-    "prijs": 280,
+    "naam": "luxe tweepersoonsbed",
+    "prijs": 1200,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-01.jpg",
-    "beschrijving": "Comfortabele 3-zits bed"
+    "beschrijving": "comfertabel tweepersoonsbed met groote hoofdsteun"
   },
   {
-    "naam": "leeuwen bed",
-    "prijs": 349,
+    "naam": "modern kingsize bed",
+    "prijs": 1850,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-02.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "Ruim kingsize bed met goed notenhout"
   },
   {
-    "naam": "Wk bed",
-    "prijs": 349,
+    "naam": "Twijfelaar",
+    "prijs": 480,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-03.jpg",
-    "beschrijving": "Met koelkast in de bed"
+    "beschrijving": "simpel betrouwbaar ruim bed voor 1 persoon"
   },
   {
-    "naam": "leeuwen bed",
-    "prijs": 349,
+    "naam": "klassiek luxe kingsize bed",
+    "prijs": 5000,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-04.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "Luxe kingsize bed met comfortabel matras"
   },
   {
-    "naam": "Wk bed",
-    "prijs": 349,
+    "naam": "twijfelaar met bedlades",
+    "prijs": 900,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-05.jpg",
-    "beschrijving": "Met koelkast in de bed"
+    "beschrijving": "ruim bed met extra opslagplaats"
   },
   {
-    "naam": "leeuwen bed",
-    "prijs": 349,
+    "naam": "ruim luxe eenpersoonsbed",
+    "prijs": 1100,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-06.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "comfortabel eenpersoonsbed met goede hoofdsteun"
   },
   {
-    "naam": "Wk bed",
-    "prijs": 349,
+    "naam": "houten bed",
+    "prijs": 880,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-07.jpg",
-    "beschrijving": "Met koelkast in de bed"
+    "beschrijving": "massief notenhouten bed"
   },
   {
-    "naam": "leeuwen bed",
-    "prijs": 349,
+    "naam": "modern kingsize bed",
+    "prijs": 2700,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-08.jpg",
-    "beschrijving": "Ruime houten kast"
+    "beschrijving": "modern enorm kingsize bed"
   },
   {
-    "naam": "Wk bed",
-    "prijs": 349,
+    "naam": "wolkenbed",
+    "prijs": 1600,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-09.jpg",
-    "beschrijving": "Met koelkast in de bed"
+    "beschrijving": "zacht en comfortabel wolkenbed"
   },
   {
-    "naam": "Wk bed",
-    "prijs": 349,
+    "naam": "astetisch bed",
+    "prijs": 2200,
     "afbeelding": "../afbeeldingen/producten/bedden/bed-10.jpg",
-    "beschrijving": "Met koelkast in de bed"
+    "beschrijving": "mooi astetisch bed"
   }
 ]

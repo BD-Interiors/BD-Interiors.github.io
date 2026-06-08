@@ -11,6 +11,7 @@ body {
     padding: 0;
     font-family: Arial;
     color: var(--text);
+    background-color:#e2ffff
 }
 
 #logo-link {
@@ -26,6 +27,8 @@ a {
     color: var(--text);
 }
 
+
+
 header {
     background-color: var(--background);
     width: 100%;
@@ -40,8 +43,12 @@ nav {
     align-items: start;
 }
 
-#dropdown {
+#thuispagina {
     grid-column: 2 / 3;
+}
+
+#dropdown {
+    grid-column: 3/ 4;
 }
 
 #account {
@@ -78,14 +85,18 @@ nav {
 
 #content {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     margin: 6%;
 }
 
 #content-img {
+    position: absolute;
+    left: 75%;
+  top: 50%;
+  transform: translate(-50%, -50%);
     width: 45%;
     border-radius: 50px;
+    animation: wissel 24s infinite;
 }
 
 #bloktekst {
@@ -129,4 +140,23 @@ footer {
 li:hover {
     transition: .5s;
     transform: scale(1.03);
+}
+
+
+#slideshow img:nth-child(1) {
+  animation-delay: 8s;
+}
+#slideshow img:nth-child(2) {
+  animation-delay: 16s;
+}
+#slideshow img:nth-child(3) {
+  animation-delay: 24s;
+}
+
+@keyframes wissel {
+  0% { opacity: 0; }
+  16.66% { opacity: 0; }
+  33.33% { opacity: 0; }
+  66.6% {opacity: 1;}
+  100% { opacity: 0; }
 }
