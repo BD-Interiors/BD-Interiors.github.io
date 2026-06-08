@@ -7,9 +7,11 @@
 }
 
 #mandje {
+    text-align: center;
+
+    padding: 20px;
     margin: 10px;
     width: 50%;
-    height: 20pc;
     background-color: var(--menu);
     border-radius: 50pt;
 }
@@ -23,11 +25,13 @@
     border-radius: 50pt;
 }
 
-.product {
-    
+.product { 
+    margin: 10px;
+    display: flex;
 }
 
 .product img {
+    padding: 10px;
     width: 15%; 
     border-radius: 50pt;
 }
