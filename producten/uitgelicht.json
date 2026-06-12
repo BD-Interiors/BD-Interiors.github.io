@@ -1,0 +1,14 @@
+[
+  {
+    "naam": "luxe tweepersoonsbed",
+    "prijs": 1200,
+    "afbeelding": "../afbeeldingen/producten/bedden/bed-01.jpg",
+    "beschrijving": "comfertabel tweepersoonsbed met groote hoofdsteun"
+  },
+  {
+    "naam": "luxe bank met koelkast",
+    "prijs": 8000,
+    "afbeelding": "../afbeeldingen/producten/banken/bank-04.jpg",
+    "beschrijving": "Luxe oranje WK-bank met dubbele koelkast "
+  }
+]

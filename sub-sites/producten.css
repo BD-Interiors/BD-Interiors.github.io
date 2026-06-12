@@ -1,4 +1,4 @@
-#banken, #kasten, #bedden {
+#banken, #kasten, #bedden, #uitgelicht {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -16,7 +16,12 @@
     border-radius: 50pt;
 }
 
-#product-img:hover {
+#product-img-uitgelicht {
+    width: 100%;
+    border-radius: 50pt;
+}
+
+#product-img:hover, #product-img-uitgelicht:hover {
     transition: 500ms;
     transform: scale(1.3);
 }

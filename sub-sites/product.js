@@ -51,4 +51,21 @@ $(document).ready(function () {
     });
     
   });
+
+  $.getJSON("../producten/uitgelicht.json", function (producten) {
+    const div = $("#uitgelicht-product");
+
+    producten.forEach(function (product) {
+      div.append(`
+        <div id="product">
+          <img id="product-img" src="${product.afbeelding}">
+          <h2>${product.naam}</h2>
+          <p>${product.beschrijving}</p>
+          <h3>€${product.prijs}</h3>
+          <button id="koop">Voeg toe aan winkelmandje</button>
+        </div>
+      `);
+    });
+    
+  });
 });

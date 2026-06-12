@@ -1,6 +1,7 @@
 :root {
-  --background: #F7F3EE;
-  --menu: #E8DED2;
+  --header: #F7F3EE;
+  --background: #a6b996;
+  --menu: #d3e6c4;
   --text: #201C19;
   --footer: #ece7e2;
   --navbar: #9395D3;
@@ -34,5 +35,11 @@
     padding: 10px;
     width: 15%; 
     border-radius: 50pt;
+}
+
+#betaal-knop {
+    width: 50%;
+    height: 10pc;
+    font-size: 50px;
 }
 
